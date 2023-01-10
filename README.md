@@ -27,4 +27,4 @@ N/A
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)# Password-Generator
+[MIT](https://choosealicense.com/licenses/mit/)
