@@ -4,7 +4,7 @@
 
 In this project I created a mini quiz for users to test their knowledge on JavaScript. I included a time limit and what their score is after each question answered. The user will also be able to see the highest scores that were received.
 
-[Link to deployed application](/)
+[Link to deployed application](https://saraschroeder.github.io/Web-APIS-Code-Quiz/)
 
 ## Installation
 
